@@ -5,7 +5,7 @@ public class RandomEmailGenerator {
 
 	public String generate() {
 		System.out.println("randomGenerator");
-		return "feedback@yoursite.com";
+		return "myfeedback@yoursite.com";
 	}
 
 }
