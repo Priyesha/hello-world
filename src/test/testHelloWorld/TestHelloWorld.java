@@ -1,6 +1,8 @@
 package testHelloWorld;
 
-import main.Hello;
+
+
+import hello.Hello;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
