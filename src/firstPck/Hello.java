@@ -9,5 +9,6 @@ public class Hello {
 
 	public static void funct1(){
 		System.out.println("my second commit.. in another function");
+		System.out.println("trigger the build");
 	}
 }
