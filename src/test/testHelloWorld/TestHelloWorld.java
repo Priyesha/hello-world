@@ -16,7 +16,7 @@ public class TestHelloWorld {
 		String str = obj.funct1();
 
 		Assert.assertNotNull(str);
-		Assert.assertEquals(str, "trigger the builds");
+		Assert.assertEquals(str, "triggering the builds");
 
 	}
 
