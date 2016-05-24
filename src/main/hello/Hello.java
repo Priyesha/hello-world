@@ -11,6 +11,6 @@ public class Hello {
 		int a=0,b=9;
 		int s = a+b;
 		System.out.println(s);
-		return "triggering the builds on commit";
+		return "triggering the builds on commit test";
 	}
 }
