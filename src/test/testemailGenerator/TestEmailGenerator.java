@@ -14,7 +14,7 @@ public class TestEmailGenerator {
 		String email = obj.generate();
 
 		Assert.assertNotNull(email);
-		Assert.assertEquals(email, "fldsfjersdfdfupjfl");
+		Assert.assertEquals(email, "fldsfjersdfdfupjflfdfd");
 
 	}
 
