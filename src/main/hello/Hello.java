@@ -11,6 +11,6 @@ public class Hello {
 		int a=0,b=9;
 		int s = a+b;
 		System.out.println(s);
-		return "triggering the builds on push testing";
+		return "triggering the build on push testing";
 	}
 }
